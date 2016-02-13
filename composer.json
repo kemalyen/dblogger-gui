@@ -1,0 +1,25 @@
+{
+    "name": "gazatem/dblogger-gui",
+    "description": "A gui for gazatem/dblogger",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["laravel", "log", "alert mailing", "monitoring", "gui"],
+    "require": {
+        "php": ">=5.5.0",
+        "illuminate/console": "~5.0",
+        "illuminate/support": "~5.0",        
+        "gazatem/dblogger":  "~0.1"
+    },
+    "authors": [
+        {
+            "name": "Kemal Yenilmez",
+            "email": "kemal@gazatem.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Gazatem\\DBLoggerGui\\": "src/"
+        }
+    }
+}
