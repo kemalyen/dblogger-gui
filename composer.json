@@ -8,7 +8,7 @@
         "php": ">=5.5.0",
         "illuminate/console": "~5.0",
         "illuminate/support": "~5.0",
-        "gazatem/dblogger":  "dev-master"
+        "gazatem/dblogger":  "~0.1"
     },
     "authors": [
         {
