@@ -1,3 +1,10 @@
+#This package has been renamed and moved to Glog
+
+I've decided to put Gui and library into a standalone package. This will be helpful for development and testing.
+
+[https://github.com/gazatem/glog](https://github.com/gazatem/glog)
+
+
 ## Gui interface for DbLogger
 
 DbLogger-GUI is a interface for the [DbLogger](https://github.com/gazatem/dblogger) package.
